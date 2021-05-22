@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d42738c-7a87-4828-b928-4983e812a202" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +42,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="590" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621509671844">
+    <state x="590" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621606167108">
       <screen x="0" y="25" width="2560" height="1322" />
     </state>
-    <state x="590" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.2560.1322/-1920.317.1920.1055@0.25.2560.1322" timestamp="1621509671844" />
+    <state x="590" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.2560.1322/-1920.317.1920.1055@0.25.2560.1322" timestamp="1621606167108" />
     <state x="526" y="212" width="1200" height="800" key="AVDManager" timestamp="1621509449225">
       <screen x="0" y="25" width="2560" height="1322" />
     </state>
